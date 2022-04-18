@@ -43,7 +43,7 @@
 // Function2() => there is no use
 //----------------------------------------------------------------------------------------------
 
-//UPDATED CODE BY SIR
+//UPDATED CODE
 // SYNCHRONOUS FUNCTIONS
 
 function multiplication(c,d){
