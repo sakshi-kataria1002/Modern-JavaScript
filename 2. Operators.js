@@ -128,5 +128,3 @@ console.log(r) // Output is 10
 var s = "11"
 console.log(typeof(s))
 
-//ASSIGNMENT => Zero Fill Right Shift Operator
-//(11/04/2022)
