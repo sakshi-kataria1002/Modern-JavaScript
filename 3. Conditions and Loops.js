@@ -103,5 +103,3 @@ do{
 //    r++
 //}while(r < 1)
 
-// ASSIGNMENT => Difference between FOR and WHILE Loop
-//(12/04/2022)
