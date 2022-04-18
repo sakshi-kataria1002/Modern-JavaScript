@@ -127,4 +127,3 @@ console.log(r) // Output is 10
 
 var s = "11"
 console.log(typeof(s))
-
