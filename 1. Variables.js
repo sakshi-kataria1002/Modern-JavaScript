@@ -90,7 +90,7 @@ console.log(a)
             //Note: You need to give defintion for const no decalartion
             const t = 27616 //This will not be printed
         }
-        //Temporal Dead Zone: ASSIGNMENT FOR TODAY(11/April/2022)
+        //Temporal Dead Zone: ASSIGNMENT
 
     //4. Lexical Scope
     //It will check the scope of "u" in this manner:
@@ -113,4 +113,3 @@ console.log("10" + 10)
 console.log("10" + "10")
 console.log("10" - "10")
 console.log("10" - "5")
-
