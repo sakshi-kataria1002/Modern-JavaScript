@@ -106,9 +106,8 @@ for (var i = 0; i < array3.length; i++){
 }
 console.log(multi)
 
-// ASSIGNMENT => MULTIPLICATION OF MATRIX and 
+//ASSIGNMENT => MULTIPLICATION OF MATRIX and 
 //ASSIGNMENT => What is Structured and Unstructured Data
-//(12/04/2022)
 
 var array5 = [1,2,3,4]
 console.log("Array Check: "+ array5) 
