@@ -113,6 +113,3 @@ console.log("10" + 10)
 console.log("10" + "10")
 console.log("10" - "10")
 console.log("10" - "5")
-
-//ASSIGNMENT => Read about TEMPORAL DEAD ZONE
-//(11/04/2022)
